@@ -1,7 +1,8 @@
 #!/bin/sh
-#karthick editing it
+
 SCRIPT_VERSION="17.2.3"
 SCRIPT_NAME=${0}
+SCRIPT_SHELL="chummachumma"
 
 
 setTime() {
